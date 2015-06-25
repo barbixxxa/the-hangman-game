@@ -1,0 +1,168 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+forca()
+{
+system("cls");
+    int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+    printf("%c\t\t%c\n",179,179);
+    printf("%c\t       /%c\\\n",179,179);
+    printf("%c\t      / %c \\\n",179,179);
+    printf("%c\t       / \\\n",179,179);
+    printf("%c\t      /   \\\n",179,179);
+    for(a=0;a<5;a++)
+        {
+        printf("%c\n",179);
+        if (a==4)
+            printf("%c\n",193);
+        }
+
+}
+
+erro1cabeca()
+{
+system("cls");
+    int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+
+    for(a=0;a<10;a++)
+        {
+        printf("%c\n",179);
+        if (a==9)
+            printf("%c\n",193);
+        }
+
+}
+erro2corpo()
+{
+system("cls");
+    int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+    for(a=0;a<3;a++)
+    printf("%c\t\t%c\n",179,179);
+
+    for(a=0;a<7;a++)
+        {
+        printf("%c\n",179);
+        if (a==6)
+            printf("%c\n",193);
+        }
+
+}
+
+
+erro4pernad()
+{
+system("cls");
+int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+    for(a=0;a<3;a++)
+    printf("%c\t\t%c\n",179,179);
+    printf("%c\t       / \\\n",179,179);
+    printf("%c\t      /   \\\n",179,179);
+    for(a=0;a<5;a++)
+        {
+        printf("%c\n",179);
+        if (a==4)
+            printf("%c\n",193);
+        }
+}
+erro3pernae()
+{
+system("cls");
+int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+    for(a=0;a<3;a++)
+    printf("%c\t\t%c\n",179,179);
+    printf("%c\t       /\n",179,179);
+    printf("%c\t      /\n",179,179);
+    for(a=0;a<5;a++)
+        {
+        printf("%c\n",179);
+        if (a==4)
+            printf("%c\n",193);
+        }
+}
+
+erro5braco()
+{
+system("cls");
+    int a;
+    printf("%c",218);
+    for(a=0;a<15;a++)
+        printf("%c",196);
+    printf("%c\n",191);
+    for(a=0;a<2;a++)
+        printf("%c\t\t%c\n",179,179);
+    printf("%c\t     %c%c%c%c%c%c%c\n",179,196,196,196,193,196,196,196);
+
+    printf("%c\t      %c%c%c%c%c\n%c\t      %c   %c\n%c\t      %c   %c\n%c\t      %c%c%c%c%c\n",179,218,196,196,196,191,179,179,179,179,179,179,179,192,196,196,196,217);
+    printf("%c\t\t%c\n",179,179);
+    printf("%c\t       /%c\n",179,179);
+    printf("%c\t      / %c\n",179,179);
+    printf("%c\t       / \\\n",179,179);
+    printf("%c\t      /   \\\n",179,179);
+    for(a=0;a<5;a++)
+        {
+        printf("%c\n",179);
+        if (a==4)
+            printf("%c\n",193);
+        }
+}
+main()
+{
+
+    erro1cabeca();
+getchar();
+    erro2corpo();
+getchar();
+    erro3pernae();
+getchar();
+    erro4pernad();
+getchar();
+    erro5braco();
+getchar();
+    forca();
+    return 0;
+}
